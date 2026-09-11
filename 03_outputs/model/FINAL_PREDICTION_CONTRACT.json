@@ -1,0 +1,27 @@
+{
+  "execution_id": "N02_FINAL_20260830_R1",
+  "target": "LF",
+  "grain": "directional route x aircraft model x month",
+  "forecast_horizon": "t+1 month",
+  "model": "XGB_N300_LR0P05_D6",
+  "training_rows": 80000,
+  "feature_count": 40,
+  "seed": 42,
+  "prediction_clip": [
+    0.0,
+    1.0
+  ],
+  "pipeline_file": "FINAL_LOAD_FACTOR_PIPELINE.joblib",
+  "pipeline_sha256": "4a4d50a7a2180617964ca7bc52224f60994523cb3b9ab9bf26ed29280a3068da",
+  "feature_schema_file": "FINAL_FEATURE_SCHEMA.csv",
+  "categorical_levels_file": "FINAL_CATEGORICAL_LEVELS.csv",
+  "candidate_file": "FINAL_AIRCRAFT_CANDIDATES.csv",
+  "reliability_file": "FINAL_RELIABILITY_RULES.csv",
+  "ensemble_accepted": false,
+  "context_file": "FINAL_INFERENCE_CONTEXT.duckdb",
+  "context_sha256": "e57bca8e408b3a5708e0848658fb2fffa5b326eacc703ffa22a6342c12522d48",
+  "runtime_file": "load_factor_recommender.py",
+  "application_requires_notebook_execution": false,
+  "target_month": "2025-12-01",
+  "forecast_origin": "2025-11-01"
+}
