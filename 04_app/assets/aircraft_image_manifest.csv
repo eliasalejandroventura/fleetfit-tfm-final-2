@@ -1,0 +1,84 @@
+AIRCRAFT_TYPE,AIRCRAFT_DESCRIPTION,AIRCRAFT_FAMILY,ASSET_KEY,ASSET_PATH,SOURCE_PAGE,SOURCE_IMAGE_URL,ASSET_ORIGIN,STATUS
+26,Gipps Aero Ga8 Airvan,Gipps Aero Ga8 Airvan,ga8,assets/aircraft/ga8.jpg,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+33,Cessna 185A/B/C Skywagon,Cessna,cessna185,assets/aircraft/cessna185.jpg,https://en.wikipedia.org/wiki/Cessna_185_Skywagon,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+34,Helio H-250/295/395,Helio H-250/295/395,helio,assets/aircraft/helio.jpg,https://en.wikipedia.org/wiki/Helio_Courier,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+35,Cessna C206/207/209/210 Stationair,Cessna,cessna206,assets/aircraft/cessna206.jpg,https://en.wikipedia.org/wiki/Cessna_206,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+36,Cessna 172 Skyhawk,Cessna,cessna172,assets/aircraft/cessna172.jpg,https://en.wikipedia.org/wiki/Cessna_172,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+40,De Havilland DHC2 Beaver,De Havilland DHC2 Beaver,beaver,assets/aircraft/beaver.jpg,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+42,De Havilland DHC3 Otter,De Havilland DHC3 Otter,otter,assets/aircraft/otter.jpg,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-3_Otter,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+79,Piper PA-32 (Cherokee 6),Piper PA-32 (Cherokee 6),cherokee6,assets/aircraft/cherokee6.jpg,https://en.wikipedia.org/wiki/Piper_PA-32_Cherokee_Six,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+91,Float/Amphib Turbine,Float/Amphib Turbine,seaplane,assets/aircraft/seaplane.jpg,https://en.wikipedia.org/wiki/Floatplane,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+125,Cessna C-402/402A/402B,Cessna,cessna402,assets/aircraft/cessna402.jpg,https://en.wikipedia.org/wiki/Cessna_402,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+131,Pilatus Britten-Norman BN2/A Islander,Pilatus,islander,assets/aircraft/islander.jpg,https://en.wikipedia.org/wiki/Britten-Norman_BN-2_Islander,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+194,Piper PA-31 (Navajo)/T-1020,Piper PA-31 (Navajo)/T-1020,navajo,assets/aircraft/navajo.jpg,https://en.wikipedia.org/wiki/Piper_PA-31_Navajo,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+335,Airbus Industrie A350-1000,Airbus A350,a350,assets/aircraft/a350.jpg,assets/user_aircraft_sources/A350.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+339,Airbus Industrie A330-900,Airbus A330,a330,assets/aircraft/a330.jpg,assets/user_aircraft_sources/A330.webp,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+359,Airbus Industrie A350-900,Airbus A350,a350,assets/aircraft/a350.jpg,assets/user_aircraft_sources/A350.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+405,Beech 1900 A/B/C/D,Beechcraft,beech1900,assets/aircraft/beech1900.jpg,https://en.wikipedia.org/wiki/Beechcraft_1900,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+406,Beech 200 Super Kingair,Beechcraft,kingair,assets/aircraft/kingair.jpg,https://en.wikipedia.org/wiki/Beechcraft_King_Air,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+410,Rockwell Turbo-Commander 680-W/690,Rockwell Turbo-Commander 680-W/690,commander,assets/aircraft/commander.jpg,https://en.wikipedia.org/wiki/Aero_Commander_500_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+415,Cessna C208B/Grand Caravan,Cessna,cessna208,assets/aircraft/cessna208.jpg,https://en.wikipedia.org/wiki/Cessna_208_Caravan,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+416,Cessna 208 Caravan,Cessna,cessna208,assets/aircraft/cessna208.jpg,https://en.wikipedia.org/wiki/Cessna_208_Caravan,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+421,Cessna Skycourier 408,Cessna,skycourier,assets/aircraft/skycourier.jpg,https://en.wikipedia.org/wiki/Cessna_408_SkyCourier,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+432,Saab 2000,Saab 2000,saab2000,assets/aircraft/saab2000.jpg,https://en.wikipedia.org/wiki/Saab_2000,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+435,Convair CV-600,Convair CV-600,convair600,assets/aircraft/convair600.jpg,https://en.wikipedia.org/wiki/Convair_CV-240_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+441,Aerospatiale/Aeritalia ATR-42,ATR 42,atr42,assets/aircraft/atr42.jpg,https://en.wikipedia.org/wiki/ATR_42,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+442,Aerospatiale/Aeritalia ATR-72,ATR 72,atr72,assets/aircraft/atr72.jpg,https://en.wikipedia.org/wiki/ATR_72,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+449,Dornier 328,Dornier 328,dornier328,assets/aircraft/dornier328.jpg,https://en.wikipedia.org/wiki/Dornier_328,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+455,Fairchild Metro 23,Fairchild Metro 23,metro,assets/aircraft/metro.jpg,https://en.wikipedia.org/wiki/Fairchild_Swearingen_Metroliner,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+458,Beechcraft Super King Air,Beechcraft,kingair,assets/aircraft/kingair.jpg,https://en.wikipedia.org/wiki/Beechcraft_King_Air,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+479,Pilatus PC-12,Pilatus,pc12,assets/aircraft/pc12.jpg,https://en.wikipedia.org/wiki/Pilatus_PC-12,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+482,De Havilland DHC8-400 Dash-8,De Havilland Dash 8,dash8,assets/aircraft/dash8.jpg,https://en.wikipedia.org/wiki/De_Havilland_Canada_Dash_8,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+483,De Havilland DHC8-100 Dash-8,De Havilland Dash 8,dash8,assets/aircraft/dash8.jpg,https://en.wikipedia.org/wiki/De_Havilland_Canada_Dash_8,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+485,De Havilland Twin Otter DHC-6,De Havilland Twin Otter,twinotter,assets/aircraft/twinotter.jpg,https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-6_Twin_Otter,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+530,Bombardier CRJ550,Bombardier CRJ,crj700,assets/aircraft/crj700.jpg,https://en.wikipedia.org/wiki/Bombardier_CRJ700_series,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+608,Boeing 717-200,Boeing 717,b717,assets/aircraft/b717.jpg,https://en.wikipedia.org/wiki/Boeing_717,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+612,Boeing 737-700/700LR/Max 7,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+614,Boeing 737-800,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+619,Boeing 737-300,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+622,Boeing 757-200,Boeing 757,b757,assets/aircraft/b757.jpg,assets/user_aircraft_sources/B757.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+623,Boeing 757-300,Boeing 757,b757,assets/aircraft/b757.jpg,assets/user_aircraft_sources/B757.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+624,Boeing 767-400/ER,Boeing 767,b767,assets/aircraft/b767.jpg,assets/user_aircraft_sources/B767.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+625,Boeing 767-200/ER/EM,Boeing 767,b767,assets/aircraft/b767.jpg,assets/user_aircraft_sources/B767.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+626,Boeing 767-300/300ER,Boeing 767,b767,assets/aircraft/b767.jpg,assets/user_aircraft_sources/B767.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+627,Boeing 777-200ER/200LR/233LR,Boeing 777,b777,assets/aircraft/b777.jpg,https://en.wikipedia.org/wiki/Boeing_777,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,crj200,assets/aircraft/crj200.jpg,https://en.wikipedia.org/wiki/Bombardier_CRJ100%2F200,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+631,Canadair RJ-700,Bombardier CRJ,crj700,assets/aircraft/crj700.jpg,https://en.wikipedia.org/wiki/Bombardier_CRJ700_series,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+632,Dornier 328 Jet,Dornier 328 Jet,dornier328,assets/aircraft/dornier328.jpg,https://en.wikipedia.org/wiki/Dornier_328,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+634,Boeing 737-900,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+637,Boeing 777-300/300ER/333ER,Boeing 777,b777,assets/aircraft/b777.jpg,https://en.wikipedia.org/wiki/Boeing_777,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+638,Canadair CRJ 900,Bombardier CRJ,crj700,assets/aircraft/crj700.jpg,https://en.wikipedia.org/wiki/Bombardier_CRJ700_series,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+669,Bombardier Challenger 604/605,Bombardier Challenger 604/605,challenger,assets/aircraft/challenger.jpg,https://en.wikipedia.org/wiki/Bombardier_Challenger_600_series,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+673,Embraer ERJ-175,Embraer E-Jet / ERJ,ejet,assets/aircraft/ejet.jpg,https://en.wikipedia.org/wiki/Embraer_E-Jet_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+674,Embraer-135,Embraer E-Jet / ERJ,erj,assets/aircraft/erj.jpg,https://en.wikipedia.org/wiki/Embraer_ERJ_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+675,Embraer-145,Embraer E-Jet / ERJ,erj,assets/aircraft/erj.jpg,https://en.wikipedia.org/wiki/Embraer_ERJ_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+676,Embraer-140,Embraer E-Jet / ERJ,erj,assets/aircraft/erj.jpg,https://en.wikipedia.org/wiki/Embraer_ERJ_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+677,Embraer-Emb-170,Embraer E-Jet / ERJ,ejet,assets/aircraft/ejet.jpg,https://en.wikipedia.org/wiki/Embraer_E-Jet_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+678,Embraer 190,Embraer E-Jet / ERJ,ejet,assets/aircraft/ejet.jpg,https://en.wikipedia.org/wiki/Embraer_E-Jet_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+687,Airbus Industrie A330-300/333,Airbus A330,a330,assets/aircraft/a330.jpg,assets/user_aircraft_sources/A330.webp,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+694,Airbus Industrie A320-100/200,Airbus A320,a320,assets/aircraft/a320.jpg,assets/user_aircraft_sources/A320.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+696,Airbus Industrie A330-200,Airbus A330,a330,assets/aircraft/a330.jpg,assets/user_aircraft_sources/A330.webp,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+698,Airbus Industrie A319,Airbus A319,a319,assets/aircraft/a319.jpg,https://en.wikipedia.org/wiki/Airbus_A319,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+699,Airbus Industrie A321Neolr,Airbus A321,a321,assets/aircraft/a321.jpg,assets/user_aircraft_sources/A321.png,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+721,Airbus Industrie A321-200n,Airbus A321,a321,assets/aircraft/a321.jpg,assets/user_aircraft_sources/A321.png,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+722,Airbus Industrie A320-200n,Airbus A320,a320,assets/aircraft/a320.jpg,assets/user_aircraft_sources/A320.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+723,A200-100 BD-500-1A10,Airbus A220,a220,assets/aircraft/a220.jpg,https://en.wikipedia.org/wiki/Airbus_A220,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+724,A220-300 BD-500-1A11,Airbus A220,a220,assets/aircraft/a220.jpg,https://en.wikipedia.org/wiki/Airbus_A220,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+748,Embraer EMB195,Embraer E-Jet / ERJ,ejet,assets/aircraft/ejet.jpg,https://en.wikipedia.org/wiki/Embraer_E-Jet_family,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+817,Boeing 747-200/300,Boeing 747,b747,assets/aircraft/b747.jpg,assets/user_aircraft_sources/B747.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+819,Boeing 747-400,Boeing 747,b747,assets/aircraft/b747.jpg,assets/user_aircraft_sources/B747.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+820,Boeing 747-400F,Boeing 747,b747,assets/aircraft/b747.jpg,assets/user_aircraft_sources/B747.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+821,Boeing B747-8,Boeing 747,b747,assets/aircraft/b747.jpg,assets/user_aircraft_sources/B747.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+824,Airbus A330-900neo,Airbus A330,a330,assets/aircraft/a330.jpg,assets/user_aircraft_sources/A330.webp,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+836,Airbus 350-1000,Airbus A350,a350,assets/aircraft/a350.jpg,assets/user_aircraft_sources/A350.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+837,Boeing 787-10 Dreamliner,Boeing 787,b787,assets/aircraft/b787.jpg,assets/user_aircraft_sources/B787.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+838,Boeing B737 Max 800,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+839,Boeing B737 Max 900,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+871,Airbus Industrie A340-300,Airbus A340,a340,assets/aircraft/a340.jpg,https://en.wikipedia.org/wiki/Airbus_A340,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+874,Airbus Industrie A340-600,Airbus A340,a340,assets/aircraft/a340.jpg,https://en.wikipedia.org/wiki/Airbus_A340,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+881,Ilyushiin Il-96-400t,Ilyushiin Il-96-400t,il96,assets/aircraft/il96.jpg,https://en.wikipedia.org/wiki/Ilyushin_Il-96,,WIKIPEDIA_LEAD_IMAGE,MATCHED
+882,Airbus Industrie A380-800,Airbus A380,a380,assets/aircraft/a380.jpg,assets/user_aircraft_sources/A380.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+887,B787-800 Dreamliner,Boeing 787,b787,assets/aircraft/b787.jpg,assets/user_aircraft_sources/B787.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+888,Boeing 737-900ER,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+889,B787-900 Dreamliner,Boeing 787,b787,assets/aircraft/b787.jpg,assets/user_aircraft_sources/B787.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
+894,Boeing 737 Max 8-200,Boeing 737,b737,assets/aircraft/b737.jpg,assets/user_aircraft_sources/B737.jpg,,USER_PROVIDED_TFM_FINAL_ASSET,MATCHED
