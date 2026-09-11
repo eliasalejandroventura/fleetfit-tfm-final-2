@@ -1,0 +1,6 @@
+FleetFit — TFM FINAL 2
+
+Separate public deployment: pending publication approval and verification.
+Do not use fleetfit-ucm.streamlit.app to assess this trial; that URL serves the preserved TFM_FINAL release.
+
+Local start: follow README.md in this folder.
