@@ -1,6 +1,13 @@
 FleetFit — TFM FINAL 2
 
-Separate public deployment: pending publication approval and verification.
-Do not use fleetfit-ucm.streamlit.app to assess this trial; that URL serves the preserved TFM_FINAL release.
+OPEN THE APPLICATION:
+https://fleetfit-tfm-final-2.streamlit.app/
 
-Local start: follow README.md in this folder.
+No installation, dataset download or notebook execution is required to use the public app.
+If Streamlit displays a sleeping-app screen, use its wake-up button and wait for startup.
+
+Source repository:
+https://github.com/eliasalejandroventura/fleetfit-tfm-final-2
+
+This is the independent TFM_FINAL_2 application. The original TFM_FINAL deployment remains separate.
+For local installation, follow README.md in this folder.

@@ -1,6 +1,6 @@
 # FleetFit — TFM FINAL 2
 
-This independent application package belongs to TFM_FINAL_2. See OPEN_FLEETFIT_APP.txt for the deployment status. The original FleetFit deployment belongs to the separate TFM_FINAL release.
+This independent application package belongs to TFM_FINAL_2. Open the public application at [https://fleetfit-tfm-final-2.streamlit.app/](https://fleetfit-tfm-final-2.streamlit.app/); no installation or notebook execution is required. Source: [https://github.com/eliasalejandroventura/fleetfit-tfm-final-2](https://github.com/eliasalejandroventura/fleetfit-tfm-final-2). The original FleetFit deployment belongs to the separate TFM_FINAL release.
 
 FleetFit forecasts December 2025 from the November 2025 forecast origin. It compares aircraft candidates for a directional route using recent operating evidence and predicted monthly load factor. It does not execute notebooks or train a model during use.
 
