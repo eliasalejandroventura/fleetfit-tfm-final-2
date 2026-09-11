@@ -1,0 +1,41 @@
+Feature,Information block,Statistical type,Required input dtype,Missing-value treatment,Forecast-origin rule
+AIRCRAFT_TYPE,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+AIRCRAFT_GROUP,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+DISTANCE_GROUP,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+ORIGIN_AIRPORT_ID,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+DEST_AIRPORT_ID,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+ORIGIN_CITY_MARKET_ID,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+DEST_CITY_MARKET_ID,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+ORIGIN_STATE_ABR,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+DEST_STATE_ABR,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+ORIGIN_COUNTRY,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+DEST_COUNTRY,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+ORIGIN_WAC,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+DEST_WAC,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+DEST_AIRPORT_CLASS,Aircraft and route structure,Categorical,string,Explicit __MISSING__ level,Structural route or aircraft attribute
+MONTH_OF_YEAR,Calendar,Categorical,string,Explicit __MISSING__ level,Known calendar value for the target month
+QUARTER_OF_YEAR,Calendar,Categorical,string,Explicit __MISSING__ level,Known calendar value for the target month
+YEAR_TREND,Calendar,Numerical,float64,Training-sample median with missing indicator,Known calendar value for the target month
+COVID_PERIOD,Calendar,Categorical,string,Explicit __MISSING__ level,Known calendar value for the target month
+LF_LAG_1,Own history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+LF_ROLLING_MEAN_3,Own history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+LF_ROLLING_MEAN_12,Own history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+OWN_SEASONAL_LF_PRIOR,Own history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+OWN_PASSENGERS_LAG_1,Own history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+MARKET_PASSENGERS_LAG_1,Route and market history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+MARKET_LF_LAG_1,Route and market history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+MARKET_SEASONAL_LF_PRIOR,Route and market history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+AIRCRAFT_GLOBAL_LF_LAG_1,Aircraft history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+ORIGIN_OUTBOUND_LF_LAG_1,Airport and network history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+ORIGIN_OUTBOUND_SEATS_LAG_1,Airport and network history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+DEST_INBOUND_LF_LAG_1,Airport and network history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+DEST_INBOUND_SEATS_LAG_1,Airport and network history,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+DEST_TRAFFIC_HUB_CLASS_LAG_1,Airport and network history,Categorical,string,Explicit __MISSING__ level,Historical value available no later than the forecast origin
+DOMINANT_AIRLINE_ID_LAG_1,"Carrier, competition and configuration",Categorical,string,Explicit __MISSING__ level,Historical value available no later than the forecast origin
+DOMINANT_CARRIER_GROUP_LAG_1,"Carrier, competition and configuration",Categorical,string,Explicit __MISSING__ level,Historical value available no later than the forecast origin
+REGIONAL_SEAT_SHARE_LAG_1,"Carrier, competition and configuration",Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+FUEL_PRICE_LAG_1,External and reliability,Numerical,float64,Training-sample median with missing indicator,Historical value available no later than the forecast origin
+ORIGIN_FAA_HUB_CLASS_REFERENCE,Structural reference context,Categorical,string,Explicit __MISSING__ level,Structural reference available when the forecast is produced
+DEST_FAA_HUB_CLASS_REFERENCE,Structural reference context,Categorical,string,Explicit __MISSING__ level,Structural reference available when the forecast is produced
+ORIGIN_URBAN_SIZE_REFERENCE,Structural reference context,Categorical,string,Explicit __MISSING__ level,Structural reference available when the forecast is produced
+DEST_URBAN_SIZE_REFERENCE,Structural reference context,Categorical,string,Explicit __MISSING__ level,Structural reference available when the forecast is produced
